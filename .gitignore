@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Generated review and build output
+reports/
+site/
+dist/
+build/
+
+# Local source captures and private notes
+case-materials/raw/
+*.local.md
