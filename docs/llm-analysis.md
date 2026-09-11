@@ -1,5 +1,7 @@
 # LLM and Context Analysis
 
+[English](llm-analysis.md) | [简体中文](llm-analysis.zh-CN.md)
+
 This document explains why rejected-context leakage is plausible in current language-model workflows. It intentionally uses qualified language. A model's output is the result of many interacting factors, and the mechanisms below should not be read as a single proven cause for every incident.
 
 ## 1. A negative instruction still activates its subject

@@ -1,5 +1,7 @@
 # References
 
+[English](references.md) | [简体中文](references.zh-CN.md)
+
 The project uses these sources as background for its technical claims. They inform the analysis; they do not establish that every observed failure has one single cause.
 
 1. Vaswani, A. et al. (2017). *Attention Is All You Need*. arXiv:1706.03762. https://arxiv.org/abs/1706.03762

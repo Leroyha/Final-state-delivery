@@ -1,5 +1,7 @@
 # Task Specification
 
+[English](task-spec.md) | [简体中文](task-spec.zh-CN.md)
+
 ## Desired result
 
 Describe what should exist after the task is complete.
@@ -22,7 +24,7 @@ List current security, compatibility, migration, legal, or operational constrain
 
 ## Validation
 
-List the commands, tests, screenshots, or review checks that establish completion.
+List the commands, tests, previews, or review checks that establish completion.
 
 ## Persistence decision
 

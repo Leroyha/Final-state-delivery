@@ -1,5 +1,7 @@
 # Example: Scope Boundaries Across Tasks
 
+[English](scope-boundary.md) | [简体中文](scope-boundary.zh-CN.md)
+
 ## Task 1
 
 The user asks for a compact layout on one dashboard card. The agent applies the layout to that card and verifies the dashboard.

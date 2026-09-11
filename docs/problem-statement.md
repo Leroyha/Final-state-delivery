@@ -1,5 +1,7 @@
 # Problem Statement: Rejected-Context Leakage
 
+[English](problem-statement.md) | [简体中文](problem-statement.zh-CN.md)
+
 ## Definition
 
 **Rejected-context leakage** is the persistence of an abandoned idea, rejected implementation, correction history, or temporary conversational constraint in a final artifact or a later task where it has no demonstrated scope.

@@ -1,5 +1,7 @@
 # Case Study: Tomato Egg Without Dongpo Pork
 
+[English](tomato-egg.md) | [简体中文](tomato-egg.zh-CN.md)
+
 ## Case summary
 
 A public discussion used a cooking metaphor to describe an AI coding failure. Someone asked an agent to prepare a simple tomato-and-egg dish. The agent added an unrelated dish. After the user asked for the addition to be removed, the agent removed the implementation but preserved the rejected idea in titles, comments, tests, documentation, and future explanations.

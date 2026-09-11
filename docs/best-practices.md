@@ -1,5 +1,7 @@
 # Best Practices
 
+[English](best-practices.md) | [简体中文](best-practices.zh-CN.md)
+
 ## For task authors
 
 ### State the positive result

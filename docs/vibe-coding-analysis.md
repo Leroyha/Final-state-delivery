@@ -1,5 +1,7 @@
 # Vibe Coding and the Final-State Boundary
 
+[English](vibe-coding-analysis.md) | [简体中文](vibe-coding-analysis.zh-CN.md)
+
 ## What changes when an agent writes the code
 
 Vibe Coding is an AI-assisted development style in which a person describes an outcome and an agent explores, edits, tests, and explains the implementation. The person remains responsible for the product intent and acceptance boundary, while the agent can perform much of the mechanical work.
@@ -9,9 +11,9 @@ This changes the shape of failure. In a manual workflow, a rejected design usual
 ## The agent loop
 
 ```text
-request -> plan -> inspect -> implement -> test -> explain -> revise
-                                  ^                    |
-                                  +--------------------+
+🟦 Request -> 🟩 Plan -> 🟨 Inspect -> 🟧 Implement -> 🟪 Test -> 🟫 Explain -> 🔄 Revise
+                                                     ^                         |
+                                                     +----- Back to inspect ---+
 ```
 
 The loop is productive when each cycle narrows the implementation toward the current contract. It becomes noisy when explanations of earlier cycles are treated as requirements for later cycles.

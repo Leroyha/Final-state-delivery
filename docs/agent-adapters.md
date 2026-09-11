@@ -1,5 +1,7 @@
 # Applying the Rule Across Agent Tools
 
+[English](agent-adapters.md) | [简体中文](agent-adapters.zh-CN.md)
+
 Final-State Delivery is tool-neutral. The exact file name, instruction hierarchy, memory feature, and review workflow vary by product and version. Check the current tool documentation before relying on a vendor-specific behavior.
 
 ## Repository instruction files
@@ -21,6 +23,10 @@ Use the repository guidance mechanism supported by the installed version. Keep d
 ## GitHub Copilot
 
 Place the rule in the repository instruction location supported by the current Copilot experience, and keep the same wording across repository and IDE integrations where practical. PR descriptions should be generated from the final diff and acceptance criteria, not copied from the entire chat.
+
+## Grok Build
+
+Use the repository instruction mechanism supported by the current Grok Build workflow. Keep the final task contract close to the codebase, treat corrections as task-local by default, and review generated files and persistent context for unnecessary history before delivery.
 
 ## Cursor and similar IDE agents
 

@@ -1,6 +1,8 @@
-# Final-State-Delivery
+# Final-State Delivery
 
-[![GitHub stars](https://img.shields.io/github/stars/Leroyha/Final-State-Delivery?style=flat-square)](https://github.com/OWNER/final-state-delivery/stargazers)
+[English](README.md) | [简体中文](README.zh-CN.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/Leroyha/Final-state-delivery?style=flat-square)](https://github.com/Leroyha/Final-state-delivery/stargazers)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey?style=flat-square)](#compatibility)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://opensource.org/licenses/MIT)
 
@@ -12,15 +14,7 @@ Final-State Delivery is a concise specification and practical documentation set 
 >
 > When the intended result is a simple dish, feature, page, or document, deliver that result. Do not turn the discarded ingredient or discarded implementation into a permanent part of the product's identity.
 
-This repository gives teams a compact `AGENTS.md` rule, a scope model, a set of tool-neutral practices, case studies, and an evaluation rubric. It is designed for ChatGPT/Codex, Claude Code, Gemini CLI, GitHub Copilot, Cursor, and other instruction-following coding agents.
-
-## 中文简介
-
-Final-State Delivery（最终状态交付）是一套面向 Vibe Coding 和 AI 编程代理的简明规范与实践资料。它针对一个常见问题：用户否定了某个方案或要求移除某项内容后，AI 没有只交付最终结果，反而把被否决的想法、纠错过程和临时限制继续写入代码、测试、界面、文档、记忆或全局规则。
-
-这套规范的核心不是记录某个具体案例，而是要求 AI 区分任务范围、交付状态和对话历史：最终交付物描述当前系统实际具备的能力；局部纠正默认只影响当前任务；长期偏好和项目规则只有在用户明确要求或项目已有约定时才持久化。
-
-“番茄炒蛋不要东坡肉”只是一个便于传播的案例。它表达的通用问题包括：删除功能后代码反而膨胀、PR 描述复述对话、一次误解被升级为永久防御机制、局部限制扩散成用户画像，以及后续无关任务被历史纠正污染。
+This repository gives teams a compact `AGENTS.md` rule, a scope model, a set of tool-neutral practices, case studies, and an evaluation rubric. It is designed for ChatGPT/Codex, Claude Code, Gemini CLI, GitHub Copilot, Grok Build, Cursor, and other instruction-following coding agents.
 
 ## The problem in one minute
 
@@ -90,10 +84,14 @@ The project therefore treats the final diff and supported behavior as the accept
 
 ## Compatibility
 
-The documentation applies to AI coding workflows on macOS, Windows, and Linux. The guidance is tool-neutral and can be used with ChatGPT/Codex, Claude Code, Gemini CLI, GitHub Copilot, Cursor, and similar agents.
+The documentation applies to AI coding workflows on macOS, Windows, and Linux. The guidance is tool-neutral and can be used with ChatGPT/Codex, Claude Code, Gemini CLI, GitHub Copilot, Grok Build, Cursor, and similar agents.
 
 ## Search and discoverability
 
-The Chinese and English search concepts intentionally appear in this README: `番茄炒蛋不要东坡肉`, `Tomato Egg Without Dongpo Pork`, `Final-State Delivery`, `rejected-context leakage`, `conversation residue`, and `AI coding agent scope creep`.
+The Chinese and English search concepts intentionally appear in this README: `番茄炒蛋不要东坡肉`, `番茄炒蛋（无东坡肉）`, `Tomato Egg Without Dongpo Pork`, `Tomato Egg (Without Dongpo Pork)`, `Final-State Delivery`, `rejected-context leakage`, `conversation residue`, and `AI coding agent scope creep`.
 
 Case material should be attributed, paraphrased when necessary, and kept separate from the normative template. Select the MIT license when creating the GitHub repository.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Leroyha/Final-state-delivery&type=Date)](https://star-history.com/#Leroyha/Final-state-delivery&Date)

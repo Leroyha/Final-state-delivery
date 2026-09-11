@@ -1,5 +1,7 @@
 # Anti-Patterns
 
+[English](anti-patterns.md) | [简体中文](anti-patterns.zh-CN.md)
+
 These patterns describe common outcomes, not rules for a particular repository. The examples use generic feature names so that the case itself does not become a new project-wide restriction.
 
 ## 1. Removal inflation

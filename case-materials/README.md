@@ -1,19 +1,17 @@
 # Case Materials
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 This directory holds source notes and future public case material for the Final-State Delivery project. Case material is explanatory evidence, not normative project instruction.
 
 ## Current material
 
 [`provided-discussion.md`](provided-discussion.md) is an English synthesis of the Chinese discussion supplied by the project author. It preserves the observed patterns while avoiding an unverified claim that a particular model mechanism caused every example.
 
-## Adding a public post
+## Source post
 
-For each external post or comment:
+Original post: https://x.com/songkeys/status/2090416137720999992
 
-1. Record the public URL, author or handle if attribution is appropriate, publication date if known, and access date.
-2. Confirm that quoting or redistribution is permitted. Prefer a short quotation and a substantial original analysis.
-3. Remove personal data that is not needed for the case.
-4. Label translations and paraphrases as translations or paraphrases.
-5. Keep the material out of `AGENTS.md` and other normative files.
+The case materials summarize the original text and the comment patterns supplied for this project. The live post may change over time.
 
-Raw local captures belong under `case-materials/raw/`, which is ignored by Git by default. Do not commit private conversations, credentials, or material that you are not authorized to redistribute.
+The case documents are based on the original post and the comment material supplied for this project. Interaction counts may change, so the original post remains the authority for current information.

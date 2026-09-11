@@ -1,5 +1,7 @@
 # Evaluation and Acceptance
 
+[English](evaluation.md) | [简体中文](evaluation.zh-CN.md)
+
 The project can be evaluated with scenario-based review rather than a keyword blacklist. The goal is to measure whether the agent delivers the intended state with appropriate scope and complexity.
 
 ## Evaluation dimensions

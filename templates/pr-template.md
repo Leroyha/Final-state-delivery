@@ -1,5 +1,7 @@
 ## Summary
 
+[English](pr-template.md) | [简体中文](pr-template.zh-CN.md)
+
 Describe the resulting behavior and user-visible outcome.
 
 ## Scope

@@ -1,5 +1,7 @@
 # Example: Removing a Feature Without Historical Residue
 
+[English](feature-removal.md) | [简体中文](feature-removal.zh-CN.md)
+
 ## Task contract
 
 Remove the deprecated export button from the settings page. Preserve the remaining settings, update the page layout, and keep tests for supported export behavior elsewhere in the product.
